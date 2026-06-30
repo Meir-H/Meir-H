@@ -1,7 +1,8 @@
 ## Hi there 👋
 # My name is Jahmyr (Meir) for short.
 
-I build tools and products that help make AI systems more trustworthy from healthcare AI applications to evaluation frameworks that test model behavior.
+I build AI systems and the frameworks that evaluate them from healthcare AI applications to evaluation frameworks that test model behavior.
+ 
  Current Work
 
  **Verdact**  
