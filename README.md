@@ -4,11 +4,11 @@ I build tools and products that help make AI systems more trustworthy — from h
 
 ## Current Work
 
-🔬 **Verdact**  
+ **Verdact**  
 AI evaluation framework focused on adversarial testing, failure-mode detection, and behavioral evaluation for healthcare AI systems.
 
-🏥 **Stratum / Maren**  
+ **Stratum / Maren**  
 Healthcare AI platform exploring memory, safety constraints, and user-centered AI workflows.
 
-📱 **RawStack**  
+ **RawStack**  
 iOS application focused on supplement intelligence and consumer health tooling.
