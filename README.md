@@ -3,7 +3,7 @@
 
 I build AI systems and the frameworks that evaluate them from healthcare AI applications to evaluation frameworks that test model behavior.
  
- Current Work
+Current Work:
 
  **Verdact**  
 AI evaluation framework focused on adversarial testing, failure-mode detection, and behavioral evaluation for healthcare AI systems.
