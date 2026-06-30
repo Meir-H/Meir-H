@@ -8,7 +8,7 @@ I build tools and products that help make AI systems more trustworthy from healt
 AI evaluation framework focused on adversarial testing, failure-mode detection, and behavioral evaluation for healthcare AI systems.
 
  **Stratum / Maren**  
-Healthcare AI platform exploring memory, safety constraints, and user-centered AI workflows.
+Health record unification platform with an AI companion.
 
  **RawStack**  
 iOS application focused on supplement intelligence and consumer health tooling.
