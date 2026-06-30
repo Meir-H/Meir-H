@@ -1,16 +1,14 @@
 ## Hi there 👋
+# Hey, I'm Jahmyr. Most people call me (Meir) for short.
+I build tools and products that help make AI systems more trustworthy — from healthcare AI applications to evaluation frameworks that test model behavior.
 
-<!--
-**Meir-H/Meir-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Work
 
-Here are some ideas to get you started:
+🔬 **Verdact**  
+AI evaluation framework focused on adversarial testing, failure-mode detection, and behavioral evaluation for healthcare AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏥 **Stratum / Maren**  
+Healthcare AI platform exploring memory, safety constraints, and user-centered AI workflows.
+
+📱 **RawStack**  
+iOS application focused on supplement intelligence and consumer health tooling.
